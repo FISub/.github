@@ -183,4 +183,4 @@ chore: styled-components 라이브러리 설치
 
 - frontend에서 쿠키를 통해 backend에게서 인가 정보를 받으려면 withcredentails 옵션을 true로 설정해야 한다.
   
-- findbyOO을 Spring data JPA 자동 생성 기능을 통해 생성했으나, join컬럼의 entity형식으로 넣어야 하는데 컬럼값을 넣는 방식으로 해서는 JPA가 조회하지 못한다. 왜냐하면 JPA에서 join컬럼을 선언 할 때 entity 타입으로 선언하기 때문이다.
+- findbyOO을 Spring data JPA 자동 생성 기능을 통해 생성했으나, 매개변수를 join컬럼의 entity형식으로 넣어야 하는데 컬럼값을 넣는 방식으로 해서는 JPA가 조회하지 못한다. 왜냐하면 JPA에서 join컬럼을 선언 할 때 entity 타입으로 선언하기 때문이다.
