@@ -22,16 +22,15 @@
 > 
 > - 상품 등록 및 관리 기능
 
-> 🐈‍⬛[**이승준**](https://github.com/leesj000603)
+> 🐈‍⬛ [**이승준**](https://github.com/leesj000603)
 > 
 > - 로그인 및 회원가입 기능
-> - 유저 정보 조회 및 수정 기능
+> - 유저 정보 조회 및 수정
 
-> 🐈‍⬛[**허예은**](https://github.com/yyyeun)
+> 🐈‍⬛ [**허예은**](https://github.com/yyyeun)
 > 
 > - 로그 처리
 > - 관리자 기능
-
 <br/>
 <br/>
 
@@ -74,7 +73,7 @@
   - ![image](https://github.com/user-attachments/assets/59ffae71-ca56-4540-87ed-96d56a220e36)
   - 상품 목록을 조회하고 관리합니다.
   - ![image](https://github.com/user-attachments/assets/3133bdea-7914-4204-a8a4-9a3abc77cdc4)
-  - 로그 데이터를 통해 데이터 시각화를 조회합니다.
+  - 로그 데이터를 통해 데이터 시각화를 조회합니다. - 회원 별 조회수 대비 구독 전환율 , 회원 조회 비율, 회원 구독 비율
   ![image](https://github.com/user-attachments/assets/f0d659b6-de0b-4be8-93f9-8bd323aeedde)
 
 <br/>
@@ -91,21 +90,21 @@
 
 <br/>
 
-## 5.2 Frotend
+## 4.2 Frotend
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | React    |  <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100"> | 17.0.2    |
 
 <br/>
 
-## 5.3 Backend
+## 4.3 Backend
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | Spring boot    |  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MpOSkh3cMg59oY1lEdz-ZBOUYA27G6HNvg&s" alt="Spring boot" width="100"> | 3.3.2    |
 
 <br/>
 
-## 5.4 Database
+## 4.4 Database
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | Mysql    |  <img src="https://i.namu.wiki/i/vkGpBcmks1_NcJW0HUFa6jlwlM6h11B-8nxRRX4bYC703H4nLo7j4dQdRCC32gz8Q-BqRcAnQgFSXMjB8jPohg.svg" alt="Mysql" width="100">    | 8.0.39   |
@@ -114,7 +113,7 @@
 
 <br/>
 
-## 5.4 Cooperation
+## 4.5 Cooperation
 |  |  |
 |-----------------|-----------------|
 | Git    |  <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">    |
@@ -126,9 +125,16 @@ https://www.notion.so/FISA-3-Mini-Project-FISub-32891dad6b01423289f01d85d36dadc0
 ## ERD
 ![Untitled](https://github.com/user-attachments/assets/cef223ed-39d1-40f5-ac1d-e144fad9c1a9)
 
+# git hub 전략
+## 방식
+1. git Organization으로 프로젝트 생성(원격 repository / upstream)
+2. 각자 repository로 fork (로컬 repository / origin)
+3. 로컬 repository 프로젝트 clone
+4. git remote add upstream “원격 https link” 로 설정
+5. 로컬 환경에서 개발 후 push
+6. github에서 pull request로 Organization에 merge
 
-# 9. 커밋 컨벤션
-## 기본 구조
+# 커밋 컨벤션
 ```
 type : subject
 ```
@@ -157,7 +163,7 @@ chore: styled-components 라이브러리 설치
 <br/>
 <br/>
 
-## 트러블 슈팅
+# 트러블 슈팅
 
 - frontend에서 쿠키를 통해 backend에게서 인가 정보를 받으려면 withcredentails 옵션을 true로 설정해야 한다.
   
