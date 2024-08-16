@@ -117,6 +117,7 @@
 |  |  |
 |-----------------|-----------------|
 | Git    |  <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">    |
+| Swagger    |  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdavrQD0Hp8S-DCTXrXIboJmVmUnfeNME0jA&s" alt="git" width="100">    |
 | Notion    |  <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">   |
 https://www.notion.so/FISA-3-Mini-Project-FISub-32891dad6b01423289f01d85d36dadc0
 
