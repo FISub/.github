@@ -122,8 +122,24 @@ https://www.notion.so/FISA-3-Mini-Project-FISub-32891dad6b01423289f01d85d36dadc0
 
 <br/>
 
-## ERD
+# ERD
 ![Untitled](https://github.com/user-attachments/assets/cef223ed-39d1-40f5-ac1d-e144fad9c1a9)
+
+## 약어사전
+| 테이블        | 약어 | 설명     |
+|---------------|------|----------|
+| **Member**    | mem  | 회원     |
+| **Payment**   | pay  | 결제     |
+| **Product**   | prod | 상품     |
+| **Subscription** | sub  | 구독     |
+| **Review**    | rev  | 리뷰     |
+| **Qna**       | que  | 질문자   |
+| **Qna**       | ans  | 답변자   |
+| **Notification** | noti | 공지사항 |
+| **Member**    | pw   | 비밀번호 |
+| **Payment**   | exp  | 유효기간 |
+| **Subscription** | per  | 기간     |
+
 
 # git hub 전략
 ## 방식
