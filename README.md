@@ -9,6 +9,10 @@
 # 1. Project Overview (프로젝트 개요)
 - 프로젝트 이름: woorihealth
 - 프로젝트 설명: 건강식품 정기구독 플랫폼
+  
+- repo
+- https://github.com/FISub/backend
+- https://github.com/FISub/frontend
 
 <br/>
 <br/>
@@ -76,6 +80,7 @@
   - 로그 데이터를 통해 데이터 시각화를 조회합니다. - 회원 별 조회수 대비 구독 전환율 , 회원 조회 비율, 회원 구독 비율
   ![image](https://github.com/user-attachments/assets/f0d659b6-de0b-4be8-93f9-8bd323aeedde)
 
+- 
 <br/>
 <br/>
 
