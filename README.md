@@ -106,6 +106,8 @@
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | Spring boot    |  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MpOSkh3cMg59oY1lEdz-ZBOUYA27G6HNvg&s" alt="Spring boot" width="100"> | 3.3.2    |
+| Spring security    |  ![image](https://github.com/user-attachments/assets/1f482316-0aef-4ef6-925f-a5a7cf4b3401) | 3.3.2    |
+
 
 <br/>
 
