@@ -49,9 +49,14 @@
 
 - **로그인**:
   - ![image](https://github.com/user-attachments/assets/93f3dd72-9cc6-4987-8abc-7008e2723f98)
-
   - 사용자 인증 정보를 통해 로그인합니다.
   - 세션 - 쿠키 방식을 통해 로그인과 권한을 검증합니다.
+    
+- **회원 정보 조회/수정**:
+  - 회원 정보를 조회합니다.
+    ![image](https://github.com/user-attachments/assets/77383b0e-ebf9-4362-9525-2434d3280eec)
+  - 회원 정보를 수정합니다.
+    ![image](https://github.com/user-attachments/assets/a7e1d424-8341-4b37-941a-dbc60a7eca91)
 
 - **상품 구독**:
   - 상품 리스트를 조회합니다.
