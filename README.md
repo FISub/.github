@@ -66,8 +66,8 @@
 
 
 - **사업자**:
-  - 상품을 등록합니다 (img업로드 기능 추후 구현 예정).
-  - ![image](https://github.com/user-attachments/assets/51a97b48-5a01-4816-8f7b-8ec006fe5c8c)
+  - 상품을 등록합니다 
+  - ![image](https://github.com/user-attachments/assets/1b5a96f1-f6cb-449a-8b8b-8c34b2602ace)
   - 현재 자신이 등록한 상품을 조회, 삭제 합니다.
   - ![image](https://github.com/user-attachments/assets/96fea053-60f9-4fe3-b66f-95f0314f9672)
 
