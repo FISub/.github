@@ -11,8 +11,8 @@
 - 프로젝트 설명: 건강식품 정기구독 플랫폼
   
 - repo
-- https://github.com/FISub/backend
-- https://github.com/FISub/frontend
+  - https://github.com/FISub/backend
+  - https://github.com/FISub/frontend
 
 <br/>
 <br/>
